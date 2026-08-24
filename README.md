@@ -6,7 +6,7 @@
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 
 > [!NOTE]
-> ❤️ I make a living maintaining Magit, Transient, Forge and many other packages.
+> I make a living maintaining Magit, Transient, Forge and many other packages.
 > Please consider supporting my work, with a [donation](https://magit.vc/donate). — Thanks! ❤️
 
 [![support me on liberapay](https://raw.githubusercontent.com/tarsius/tarsius/master/badge/sponsor_liberapay.svg)](https://liberapay.com/tarsius/)
